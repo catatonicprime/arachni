@@ -7,7 +7,7 @@
 =end
 
 require 'childprocess'
-require 'watir-webdriver'
+require 'watir'
 require_relative 'selenium/webdriver/element'
 require_relative 'processes/manager'
 require_relative 'browser/element_locator'
